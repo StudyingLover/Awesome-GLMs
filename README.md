@@ -1,13 +1,6 @@
 <div align="center">
   <h2 align="center">Awesome-GLMs🦄 </h2>
   
-  <!-- <p align="center">
-    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-  </p> -->
-  
-  <p>
-      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
-  </p>
   <p align="center">
     <p align="center"> 这个仓库包含了一个精选的智谱AI的GLMs列表，欢迎共同建设，欢迎优质GLMs</p>
   </p>
@@ -21,7 +14,7 @@
   </h4>
 </div>
 
-## Awesome-GPTs
+## Awesome-GLMs
 🎉 本仓库致力于收集有趣和创新的GLM模型！
 📝 如果你设计了一个令人印象深刻的GLM，请在问题区提供其名称、描述和链接（欢迎提交PR）。
 🚀 让我们分享并庆祝你的作品！
